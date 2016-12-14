@@ -1,0 +1,6 @@
+{
+    "requires": [
+        {"product": "b", "version": "1.0.0"},
+        {"product": "c", "version": "2.0.0"}
+    ]
+}
